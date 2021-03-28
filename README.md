@@ -11,7 +11,13 @@ Some of my own threads and a lot of the threads from the best guys over twitter.
 - [Spiral Classification](https://twitter.com/capeandcode/status/1346866933296087042)
 - [Linear And Non Linear Transformations](https://twitter.com/capeandcode/status/1341030858648477696)
 - [Style Transfer](https://twitter.com/capeandcode/status/1339105157921968128)
+- [Simulated Annealing](https://twitter.com/capeandcode/status/1374742301453426695)
+- [Learning Rate and Log Scale](https://twitter.com/capeandcode/status/1375872184313208836)
 
 **Python**
 - [Keras Custom Generator](https://twitter.com/capeandcode/status/1374013634477617158)
 - [Python Logger](https://twitter.com/capeandcode/status/1374013634477617158) 
+
+
+**Notes**
+- [Andrew NG Machine Learning](https://twitter.com/capeandcode/status/1375315443200581635)
