@@ -17,11 +17,15 @@ Some of my own threads and a lot of the threads from the best guys over twitter.
 - [Simulated Annealing](https://twitter.com/capeandcode/status/1374742301453426695)
 - [Learning Rate and Log Scale](https://twitter.com/capeandcode/status/1375872184313208836)
 - [Overfitting High Accuracy](https://twitter.com/capeandcode/status/1377293802000424961)
-- 
+- [Move on from Basic Problems](https://twitter.com/capeandcode/status/1378286752247508992)
+- [MNIST in 3D](https://twitter.com/capeandcode/status/1378346802500534276)
+
 **Python**
 - [Keras Custom Generator](https://twitter.com/capeandcode/status/1374013634477617158)
 - [Python Logger](https://twitter.com/capeandcode/status/1374013634477617158) 
+- [Feature Importance](https://twitter.com/capeandcode/status/1378648544823902208)
 
 
 **Notes**
 - [Andrew NG Machine Learning](https://twitter.com/capeandcode/status/1375315443200581635)
+- [Stats and Probability](https://twitter.com/capeandcode/status/1377953968597372936)
