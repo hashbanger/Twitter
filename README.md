@@ -24,7 +24,7 @@ Some of my own threads and a lot of the threads from the best guys over twitter.
 - [Keras Custom Generator](https://twitter.com/capeandcode/status/1374013634477617158)
 - [Python Logger](https://twitter.com/capeandcode/status/1374013634477617158) 
 - [Feature Importance](https://twitter.com/capeandcode/status/1378648544823902208)
-
+- [Split and Join Keras Models](https://twitter.com/capeandcode/status/1379098828498821123)
 
 **Notes**
 - [Andrew NG Machine Learning](https://twitter.com/capeandcode/status/1375315443200581635)
