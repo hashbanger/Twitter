@@ -24,6 +24,9 @@ Some of my own threads and a lot of the threads from the best guys over twitter.
 - [Lessons from a Data Problem](https://twitter.com/capeandcode/status/1381256194296143890)
 - [Precision and Recall](https://twitter.com/capeandcode/status/1380045608141025290)
 - [Ensemble Techniques](https://twitter.com/capeandcode/status/1379468883380289540)
+- [Convolutions 1D 2D 3D](https://twitter.com/capeandcode/status/1382363953297117184)
+- [Calculating Convolution Shapes](https://twitter.com/capeandcode/status/1383415512399441922)
+- [Backpropagation Intuition](https://twitter.com/capeandcode/status/1384521213746184194)
 
 **Python**
 - [Keras Custom Generator](https://twitter.com/capeandcode/status/1374013634477617158)
@@ -37,3 +40,4 @@ Some of my own threads and a lot of the threads from the best guys over twitter.
 **Notes**
 - [Andrew NG Machine Learning](https://twitter.com/capeandcode/status/1375315443200581635)
 - [Stats and Probability](https://twitter.com/capeandcode/status/1377953968597372936)
+- [Backpropagation Maths](https://drive.google.com/file/d/1OwrxOeBVOL0qB6mDk91ZJ9raflo54qa4/view)
