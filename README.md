@@ -27,6 +27,9 @@ Some of my own threads and a lot of the threads from the best guys over twitter.
 - [Convolutions 1D 2D 3D](https://twitter.com/capeandcode/status/1382363953297117184)
 - [Calculating Convolution Shapes](https://twitter.com/capeandcode/status/1383415512399441922)
 - [Backpropagation Intuition](https://twitter.com/capeandcode/status/1384521213746184194)
+- [PCA on Fashion MNIST](https://twitter.com/capeandcode/status/1387784992596525059)
+- [Interpretation and Flexibility](https://twitter.com/capeandcode/status/1386695316288774150)
+- [Irreducible Error](https://twitter.com/capeandcode/status/1386215367547269126)
 
 **Python**
 - [Keras Custom Generator](https://twitter.com/capeandcode/status/1374013634477617158)
