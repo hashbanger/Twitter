@@ -19,7 +19,6 @@ Some of my own threads and a lot of the threads from the best guys over twitter.
 - [Overfitting High Accuracy](https://twitter.com/capeandcode/status/1377293802000424961)
 - [Move on from Basic Problems](https://twitter.com/capeandcode/status/1378286752247508992)
 - [MNIST in 3D](https://twitter.com/capeandcode/status/1378346802500534276)
-- [Convolutions](https://twitter.com/capeandcode/status/1382363953297117184)
 - [Time-Series Models](https://twitter.com/capeandcode/status/1381592947506970625)
 - [Lessons from a Data Problem](https://twitter.com/capeandcode/status/1381256194296143890)
 - [Precision and Recall](https://twitter.com/capeandcode/status/1380045608141025290)
