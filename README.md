@@ -30,6 +30,11 @@ Some of my own threads and a lot of the threads from the best guys over twitter.
 - [PCA on Fashion MNIST](https://twitter.com/capeandcode/status/1387784992596525059)
 - [Interpretation and Flexibility](https://twitter.com/capeandcode/status/1386695316288774150)
 - [Irreducible Error](https://twitter.com/capeandcode/status/1386215367547269126)
+- [Embedding Preprocessing in Model](https://twitter.com/capeandcode/status/1389847209240252421)
+- [YOLO Object Detection](https://twitter.com/capeandcode/status/1390641646866288641)
+- [Neural Nets as Combination of Linear Methods](https://twitter.com/capeandcode/status/1391817619037048838)
+- [Validation vs Test Set](https://twitter.com/capeandcode/status/1392507595072565248)
+- [R2 in Regression explained](https://twitter.com/capeandcode/status/1393194195360174081)
 
 **Python**
 - [Keras Custom Generator](https://twitter.com/capeandcode/status/1374013634477617158)
@@ -39,6 +44,8 @@ Some of my own threads and a lot of the threads from the best guys over twitter.
 - [Shuffle Arrays Synchronously](https://twitter.com/capeandcode/status/1380475583461785601)
 - [Operations on Dates](https://twitter.com/capeandcode/status/1379257475606532096)
 - [Splitting Joining Models](https://twitter.com/capeandcode/status/1379098828498821123)
+- [Multiple Variable Assignment](https://twitter.com/capeandcode/status/1389524898238713857)
+- [Ipython Cell Timing](https://twitter.com/capeandcode/status/1391066712796139526)
 
 **Notes**
 - [Andrew NG Machine Learning](https://twitter.com/capeandcode/status/1375315443200581635)
