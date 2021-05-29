@@ -1,7 +1,6 @@
 # Twitter
 
 Here is a collection of the best tweets in the field of Machine Learning, Deep Learning and Mathematics. 
-Some of my own threads and a lot of the threads from the best guys over twitter.
 
 ### My Threads [(Profile)](https://twitter.com/capeandcode)
 
@@ -34,6 +33,9 @@ Some of my own threads and a lot of the threads from the best guys over twitter.
 - [Neural Nets as Combination of Linear Methods](https://twitter.com/capeandcode/status/1391817619037048838)
 - [Validation vs Test Set](https://twitter.com/capeandcode/status/1392507595072565248)
 - [R2 in Regression explained](https://twitter.com/capeandcode/status/1393194195360174081)
+- [Regressions in 3D](https://twitter.com/capeandcode/status/1394963634217000960)
+- [Residual Analysis](https://twitter.com/capeandcode/status/1396779807334035459)
+- [Validation vs Test Set](https://twitter.com/capeandcode/status/1392507595072565248)
 
 **Python**
 - [Keras Custom Generator](https://twitter.com/capeandcode/status/1374013634477617158)
@@ -45,6 +47,7 @@ Some of my own threads and a lot of the threads from the best guys over twitter.
 - [Splitting Joining Models](https://twitter.com/capeandcode/status/1379098828498821123)
 - [Multiple Variable Assignment](https://twitter.com/capeandcode/status/1389524898238713857)
 - [Ipython Cell Timing](https://twitter.com/capeandcode/status/1391066712796139526)
+- [Decision Forests in Tensorflow](https://twitter.com/capeandcode/status/1397551353854005249)
 
 **Notes**
 - [Andrew NG Machine Learning](https://twitter.com/capeandcode/status/1375315443200581635)
