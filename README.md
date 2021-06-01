@@ -51,5 +51,5 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 
 **Notes**
 - [Andrew NG Machine Learning](https://twitter.com/capeandcode/status/1375315443200581635)
-- [Stats and Probability](https://twitter.com/capeandcode/status/1377953968597372936)
-- [Backpropagation Maths](https://drive.google.com/file/d/1OwrxOeBVOL0qB6mDk91ZJ9raflo54qa4/view)
+- [Stats and Probability](https://gumroad.com/l/KHxct)
+- [Backpropagation Maths](https://gumroad.com/l/peltOg)
