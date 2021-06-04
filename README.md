@@ -39,7 +39,8 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 
 **Python**
 - [Keras Custom Generator](https://twitter.com/capeandcode/status/1374013634477617158)
-- [Python Logger](https://twitter.com/capeandcode/status/1374013634477617158) 
+- [Python Logger](https://twitter.com/capeandcode/status/1369638935811346436)
+- [Sub List Operations](https://twitter.com/capeandcode/status/1377607476338520064) 
 - [Feature Importance](https://twitter.com/capeandcode/status/1378648544823902208)
 - [Split and Join Keras Models](https://twitter.com/capeandcode/status/1379098828498821123)
 - [Shuffle Arrays Synchronously](https://twitter.com/capeandcode/status/1380475583461785601)
