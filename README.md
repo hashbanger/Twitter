@@ -36,6 +36,11 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 - [Regressions in 3D](https://twitter.com/capeandcode/status/1394963634217000960)
 - [Residual Analysis](https://twitter.com/capeandcode/status/1396779807334035459)
 - [Validation vs Test Set](https://twitter.com/capeandcode/status/1392507595072565248)
+- [Apriori](https://twitter.com/capeandcode/status/1405842533914058765)
+- [Machine Learning Overview](https://twitter.com/capeandcode/status/1406875822728749061)
+- [Machine Learning Algorithms Map](https://twitter.com/capeandcode/status/1404659731973640196)
+- [Multicollinearity](https://twitter.com/capeandcode/status/1403016599662071816)
+- [Z-Score Explanation](https://twitter.com/capeandcode/status/1400827158818213899)
 
 **Python**
 - [Keras Custom Generator](https://twitter.com/capeandcode/status/1374013634477617158)
@@ -49,6 +54,8 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 - [Multiple Variable Assignment](https://twitter.com/capeandcode/status/1389524898238713857)
 - [Ipython Cell Timing](https://twitter.com/capeandcode/status/1391066712796139526)
 - [Decision Forests in Tensorflow](https://twitter.com/capeandcode/status/1397551353854005249)
+- [Python Ellipsis](https://twitter.com/capeandcode/status/1402193743722156032)
+- [Python Glob](https://twitter.com/capeandcode/status/1400320917754896384)
 
 **Notes**
 - [Andrew NG Machine Learning](https://twitter.com/capeandcode/status/1375315443200581635)
