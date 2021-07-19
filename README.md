@@ -37,10 +37,9 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 - [Residual Analysis](https://twitter.com/capeandcode/status/1396779807334035459)
 - [Validation vs Test Set](https://twitter.com/capeandcode/status/1392507595072565248)
 - [Apriori](https://twitter.com/capeandcode/status/1405842533914058765)
-- [Machine Learning Overview](https://twitter.com/capeandcode/status/1406875822728749061)
-- [Machine Learning Algorithms Map](https://twitter.com/capeandcode/status/1404659731973640196)
 - [Multicollinearity](https://twitter.com/capeandcode/status/1403016599662071816)
 - [Z-Score Explanation](https://twitter.com/capeandcode/status/1400827158818213899)
+- [Segmentation Performance Measure](https://twitter.com/capeandcode/status/1414617183687036929)
 
 **Python**
 - [Keras Custom Generator](https://twitter.com/capeandcode/status/1374013634477617158)
@@ -56,8 +55,26 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 - [Decision Forests in Tensorflow](https://twitter.com/capeandcode/status/1397551353854005249)
 - [Python Ellipsis](https://twitter.com/capeandcode/status/1402193743722156032)
 - [Python Glob](https://twitter.com/capeandcode/status/1400320917754896384)
+- [Set Operation for Data Curation](https://twitter.com/capeandcode/status/1410248413443096581)
+- [Or as Short Circuit Operator](https://twitter.com/capeandcode/status/1407986733996666883)
+
+**Random Tips and Depictions***
+- [Machine Learning Overview](https://twitter.com/capeandcode/status/1406875822728749061)
+- [Machine Learning Algorithms Map](https://twitter.com/capeandcode/status/1404659731973640196)
+- [Skills FOr Data Science](https://twitter.com/capeandcode/status/1415637828571045888)
+- [ Confusion Matrix](https://twitter.com/capeandcode/status/1413014172430856200)
+- [Precision Vs Recall](https://twitter.com/capeandcode/status/1412254237401120768)
+- [Precision Vs Recall Handdrawn](https://twitter.com/capeandcode/status/1410826562774081541)
+- [Visualization Cheatsheet](https://twitter.com/capeandcode/status/1411245085023371268)
+- [Accuracy Vs Precision](https://twitter.com/capeandcode/status/1410501848167981062)
+- [Python Versatility](https://twitter.com/capeandcode/status/1410143744645472262)
+- [Amazon Forecast](https://twitter.com/capeandcode/status/1409518171648774148)
+- [Normal Distribution Summary](https://twitter.com/capeandcode/status/1409376867719606275)
+- [Data Science Pyramid](https://twitter.com/capeandcode/status/1408287969698480131)
+- [Decision Boundaries](https://twitter.com/capeandcode/status/1405108345346789377)
 
 **Notes**
 - [Andrew NG Machine Learning](https://twitter.com/capeandcode/status/1375315443200581635)
 - [Stats and Probability](https://gumroad.com/l/KHxct)
 - [Backpropagation Maths](https://gumroad.com/l/peltOg)
+- [Hadoop Basics](https://capeandcode.gumroad.com/l/NDuXv)
