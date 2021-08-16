@@ -40,6 +40,12 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 - [Multicollinearity](https://twitter.com/capeandcode/status/1403016599662071816)
 - [Z-Score Explanation](https://twitter.com/capeandcode/status/1400827158818213899)
 - [Segmentation Performance Measure](https://twitter.com/capeandcode/status/1414617183687036929)
+- [Simple Spam Classifier](https://twitter.com/capeandcode/status/1426035659467157515)
+- [Image Similarity Intuition](https://twitter.com/capeandcode/status/1422172849377144832)
+- [Communication in Data Science](https://twitter.com/capeandcode/status/1420722316590206976)
+- [Survival Bias Fallacy](https://twitter.com/capeandcode/status/1420327850981216259)
+- [Survival Bias Story](https://twitter.com/capeandcode/status/1420423454914879495)
+- [Feature Scaling](https://twitter.com/capeandcode/status/1420243847959908358)
 
 **Python**
 - [Keras Custom Generator](https://twitter.com/capeandcode/status/1374013634477617158)
@@ -57,6 +63,17 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 - [Python Glob](https://twitter.com/capeandcode/status/1400320917754896384)
 - [Set Operation for Data Curation](https://twitter.com/capeandcode/status/1410248413443096581)
 - [Or as Short Circuit Operator](https://twitter.com/capeandcode/status/1407986733996666883)
+- [Tensorflow Callbacks](https://twitter.com/capeandcode/status/1427133435395547138)
+- [Zen of Python](https://twitter.com/capeandcode/status/1425411444716101633)
+- [Existing Directories](https://twitter.com/capeandcode/status/1425011537262043140)
+- [Eight Pandas Functions](https://twitter.com/capeandcode/status/1424587491789606913)
+- [Function Annotation](https://twitter.com/capeandcode/status/1422903967961391107)
+- [Corey Schafer Learning Resources](https://twitter.com/capeandcode/status/1422773035715776514)
+- [Dict from Lists](https://twitter.com/capeandcode/status/1420689239390318594)
+- [Reverse Dict](https://twitter.com/capeandcode/status/1422123240680431621)
+- [System Command Run](https://twitter.com/capeandcode/status/1421479520381521920)
+- [Confidence Interval Map](https://twitter.com/capeandcode/status/1419666726153711619)
+- [Eval in Python](https://twitter.com/capeandcode/status/1418181781740691459)
 
 **Random Tips and Depictions***
 - [Machine Learning Overview](https://twitter.com/capeandcode/status/1406875822728749061)
@@ -72,6 +89,9 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 - [Normal Distribution Summary](https://twitter.com/capeandcode/status/1409376867719606275)
 - [Data Science Pyramid](https://twitter.com/capeandcode/status/1408287969698480131)
 - [Decision Boundaries](https://twitter.com/capeandcode/status/1405108345346789377)
+- [Statistics Concept Map](https://twitter.com/capeandcode/status/1420602484104392705)
+- [Common Machine Learning Steps](https://twitter.com/capeandcode/status/1418533465214001157)
+- [Neural Network Recognizes Dog](https://twitter.com/capeandcode/status/1417353094946443271)
 
 **Notes**
 - [Andrew NG Machine Learning](https://twitter.com/capeandcode/status/1375315443200581635)
