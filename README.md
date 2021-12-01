@@ -57,6 +57,24 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 - [Machine Learning Jargon Part2](https://twitter.com/capeandcode/status/1436307263333933063?s=20)
 - [Computer Vision Skills](https://twitter.com/capeandcode/status/1436540019771002881?s=20)
 - [One-Hot Encoding](https://twitter.com/capeandcode/status/1437432634523590661?s=20)
+- [Logistic Regression Name](https://twitter.com/capeandcode/status/1437807843034296321?s=20)
+- [Probability vs Odds](https://twitter.com/capeandcode/status/1438370757168402433?s=20)
+- [Catastrophic Forgetting](https://twitter.com/capeandcode/status/1438878041652875265?s=20)
+- [Optimizers](https://twitter.com/capeandcode/status/1440544381996470273?s=20)
+- [Assumptions of Linear Regression](https://twitter.com/capeandcode/status/1440710070031962112?s=20)
+- [Mathematics Resources for Machine Learning](https://twitter.com/capeandcode/status/1441431549266698241?s=20)
+- [Probabilistic Sampling Methods](https://twitter.com/capeandcode/status/1442512989098164226?s=20)
+- [YAML](https://twitter.com/capeandcode/status/1442888924532129795?s=20)
+- [How to learn Maths for Machine Learning](https://twitter.com/capeandcode/status/1443907889618325509?s=20)
+- [Dropbox Image Search Algorithm](https://twitter.com/capeandcode/status/1445621140894879756?s=20)
+- [Mean Absolute Percentage Error](https://twitter.com/capeandcode/status/1450666977236713480?s=20)
+- [Activation Functions](https://twitter.com/capeandcode/status/1455517220503576579?s=20)
+- [Need for Machine Learning Pipelines](https://twitter.com/capeandcode/status/1457692207637401610?s=20)
+- [Components of Machine Learning Pipelines](https://twitter.com/capeandcode/status/1458295538017705989?s=20)
+- [Machine Learning Pipeline Frameworks](https://twitter.com/capeandcode/status/1462766087888457729?s=20)
+- [TFRecords](https://twitter.com/capeandcode/status/1464205051623198722?s=20)
+- [Training-Serving Skew](https://twitter.com/capeandcode/status/1465328889316601856?s=20)
+- [DAGs in Machine Learning](https://twitter.com/capeandcode/status/1465677332299988997?s=20)
 
 **Python**
 - [Keras Custom Generator](https://twitter.com/capeandcode/status/1374013634477617158)
@@ -92,6 +110,7 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 - [Useful Numpy Functions](https://twitter.com/capeandcode/status/1432316212692672517?s=20)
 - [Joins in Pandas](https://twitter.com/capeandcode/status/1433391023573516289?s=20)
 - [Merging Dictionaries](https://twitter.com/capeandcode/status/1433710674706796553?s=20)
+- [Difference between Dates](https://twitter.com/capeandcode/status/1446024957415157763?s=20)
 
 **Random Tips and Depictions***
 - [Machine Learning Overview](https://twitter.com/capeandcode/status/1406875822728749061)
@@ -111,6 +130,7 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 - [Common Machine Learning Steps](https://twitter.com/capeandcode/status/1418533465214001157)
 - [Neural Network Recognizes Dog](https://twitter.com/capeandcode/status/1417353094946443271)
 - [Supervised Learning Flow](https://twitter.com/capeandcode/status/1428579392884600844?s=20)
+- [Time Management by Ankur Warikoo](https://twitter.com/capeandcode/status/1462635716685430791?s=20)
 
 **Notes**
 - [Andrew NG Machine Learning](https://twitter.com/capeandcode/status/1375315443200581635)
