@@ -75,6 +75,7 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 - [TFRecords](https://twitter.com/capeandcode/status/1464205051623198722?s=20)
 - [Training-Serving Skew](https://twitter.com/capeandcode/status/1465328889316601856?s=20)
 - [DAGs in Machine Learning](https://twitter.com/capeandcode/status/1465677332299988997?s=20)
+- [MLOps and Challenges](https://twitter.com/capeandcode/status/1599984496803479552)
 
 **Python**
 - [Keras Custom Generator](https://twitter.com/capeandcode/status/1374013634477617158)
@@ -131,6 +132,7 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 - [Neural Network Recognizes Dog](https://twitter.com/capeandcode/status/1417353094946443271)
 - [Supervised Learning Flow](https://twitter.com/capeandcode/status/1428579392884600844?s=20)
 - [Time Management by Ankur Warikoo](https://twitter.com/capeandcode/status/1462635716685430791?s=20)
+- [Learning SQL](https://twitter.com/capeandcode/status/1572806157353521153?s=20&t=AD09blJ4TxQQ-ucYvYwpIQ)
 
 **Notes**
 - [Andrew NG Machine Learning](https://twitter.com/capeandcode/status/1375315443200581635)
