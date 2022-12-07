@@ -76,6 +76,7 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 - [Training-Serving Skew](https://twitter.com/capeandcode/status/1465328889316601856?s=20)
 - [DAGs in Machine Learning](https://twitter.com/capeandcode/status/1465677332299988997?s=20)
 - [MLOps and Challenges](https://twitter.com/capeandcode/status/1599984496803479552)
+- [MLOps and Risk Mitigation](https://twitter.com/capeandcode/status/1600343103247826944)
 
 **Python**
 - [Keras Custom Generator](https://twitter.com/capeandcode/status/1374013634477617158)
