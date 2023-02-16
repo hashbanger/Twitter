@@ -1,6 +1,6 @@
 # Twitter
 
-Here is a collection of the best tweets in the field of Machine Learning, Deep Learning and Mathematics. 
+Here is a collection of the best tweets in the field of Machine Learning, Deep Learning and Mathematics.
 
 ### My Threads [(Profile)](https://twitter.com/capeandcode)
 
@@ -77,11 +77,14 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 - [DAGs in Machine Learning](https://twitter.com/capeandcode/status/1465677332299988997?s=20)
 - [MLOps and Challenges](https://twitter.com/capeandcode/status/1599984496803479552)
 - [MLOps and Risk Mitigation](https://twitter.com/capeandcode/status/1600343103247826944)
+- [GPT-3 and ChatGPT](https://twitter.com/capeandcode/status/1626190977156382723?s=20)
+- [Using GPT-3](https://twitter.com/capeandcode/status/1621108685081825280?s=20)
 
 **Python**
+
 - [Keras Custom Generator](https://twitter.com/capeandcode/status/1374013634477617158)
 - [Python Logger](https://twitter.com/capeandcode/status/1369638935811346436)
-- [Sub List Operations](https://twitter.com/capeandcode/status/1377607476338520064) 
+- [Sub List Operations](https://twitter.com/capeandcode/status/1377607476338520064)
 - [Feature Importance](https://twitter.com/capeandcode/status/1378648544823902208)
 - [Split and Join Keras Models](https://twitter.com/capeandcode/status/1379098828498821123)
 - [Shuffle Arrays Synchronously](https://twitter.com/capeandcode/status/1380475583461785601)
@@ -114,7 +117,8 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 - [Merging Dictionaries](https://twitter.com/capeandcode/status/1433710674706796553?s=20)
 - [Difference between Dates](https://twitter.com/capeandcode/status/1446024957415157763?s=20)
 
-**Random Tips and Depictions***
+**Random Tips and Depictions\***
+
 - [Machine Learning Overview](https://twitter.com/capeandcode/status/1406875822728749061)
 - [Machine Learning Algorithms Map](https://twitter.com/capeandcode/status/1404659731973640196)
 - [Skills FOr Data Science](https://twitter.com/capeandcode/status/1415637828571045888)
@@ -136,6 +140,7 @@ Here is a collection of the best tweets in the field of Machine Learning, Deep L
 - [Learning SQL](https://twitter.com/capeandcode/status/1572806157353521153?s=20&t=AD09blJ4TxQQ-ucYvYwpIQ)
 
 **Notes**
+
 - [Andrew NG Machine Learning](https://twitter.com/capeandcode/status/1375315443200581635)
 - [Stats and Probability](https://gumroad.com/l/KHxct)
 - [Backpropagation Maths](https://gumroad.com/l/peltOg)
